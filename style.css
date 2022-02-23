@@ -18,3 +18,12 @@ header {
     display: inline;
     margin-right: 15px;
 }
+h2 {
+    text-align: center;
+    color: #315be6;
+    padding-left: 15px;
+    
+}
+.banner  h1{
+    text-align: center;
+}
